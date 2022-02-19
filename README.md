@@ -5,8 +5,7 @@
 
 ## Attaques actives
 
-REALISER PAR : ![](Aspose.Words.d1438f71-9bd8-484b-b3c6-ee7391c29f42.005.png)![](Aspose.Words.d1438f71-9bd8-484b-b3c6-ee7391c29f42.006.png)
-
+REALISER PAR : 
 ZINEB EL RHAZOUANI
 SAID EL OUARDI
 ADIL ERRAD 
